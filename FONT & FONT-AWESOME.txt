@@ -1,0 +1,17 @@
+      in project on bootstrap 4.4 by anisul islam
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                                             
+								FONT-NAME
+                                 robato
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+font-family: 'Roboto', sans-serif; 
+				Handlee
+  <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet"> 
+font-family: 'Handlee', cursive;  
+				Montserrat
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"> 
+font-family: 'Montserrat', sans-serif;
+
+
+
